@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\FinalExaminationWork\LogInfo\bin\Debug\netcoreapp3.1\LogInfo.deps.json
+C:\Users\User\source\repos\FinalExaminationWork\LogInfo\bin\Debug\netcoreapp3.1\LogInfo.dll
+C:\Users\User\source\repos\FinalExaminationWork\LogInfo\obj\Debug\netcoreapp3.1\LogInfo.csprojAssemblyReference.cache
+C:\Users\User\source\repos\FinalExaminationWork\LogInfo\obj\Debug\netcoreapp3.1\LogInfo.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FinalExaminationWork\LogInfo\obj\Debug\netcoreapp3.1\LogInfo.AssemblyInfo.cs
